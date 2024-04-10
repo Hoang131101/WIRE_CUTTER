@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Wire_cutter.PrjPcb]
+   Generated File[wire_cutter_pcb-RoundHoles.TXT]
+   Generated File[wire_cutter_pcb-SlotHoles.TXT]
+   Generated File[wire_cutter_pcb.LDP]
+   Generated File[wire_cutter_pcb.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:13:01 PM On 4/10/2024

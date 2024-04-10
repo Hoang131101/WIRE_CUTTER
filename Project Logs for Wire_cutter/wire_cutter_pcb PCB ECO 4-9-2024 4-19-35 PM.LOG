@@ -1,0 +1,7 @@
+Added Component: Designator=IC1(LM2596 Module)
+Added Pin To Net: NetName=12V Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=5V Pin=IC1-4
+Added Member To Class: ClassName=wire_cutter_sch Member=Component IC1 LM2596 module
+Added Room: Name=wire_cutter_sch

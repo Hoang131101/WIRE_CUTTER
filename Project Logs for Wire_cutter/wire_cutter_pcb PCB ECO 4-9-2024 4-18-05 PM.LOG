@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=U2-AREF
+Added Pin To Net: NetName=GND Pin=U2-GND3
+Added Room: Name=wire_cutter_sch

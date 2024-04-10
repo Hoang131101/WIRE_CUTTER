@@ -1,0 +1,34 @@
+Added Component: Designator=T2(lo_bat_vit)
+Added Component: Designator=T3(lo_bat_vit)
+Added Component: Designator=T4(lo_bat_vit)
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Member To Class: ClassName=wire_cutter_sch Member=Component T2 lo_bat_vit
+Added Member To Class: ClassName=wire_cutter_sch Member=Component T3 lo_bat_vit
+Added Member To Class: ClassName=wire_cutter_sch Member=Component T4 lo_bat_vit
+Added Room: Name=wire_cutter_sch

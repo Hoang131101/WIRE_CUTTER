@@ -1,0 +1,12 @@
+Added Component: Designator=T1(lo_bat_vit)
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Member To Class: ClassName=wire_cutter_sch Member=Component T1 lo_bat_vit
+Added Room: Name=wire_cutter_sch

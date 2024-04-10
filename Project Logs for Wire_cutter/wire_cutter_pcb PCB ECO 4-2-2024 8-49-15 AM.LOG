@@ -1,0 +1,17 @@
+Added Component: Designator=U2(Arduino Uno)
+Added Pin To Net: NetName=UP Pin=U2-2
+Added Pin To Net: NetName=DOWN Pin=U2-3
+Added Pin To Net: NetName=LEFT Pin=U2-4
+Added Pin To Net: NetName=RIGHT Pin=U2-5
+Added Pin To Net: NetName=5V Pin=U2-5V
+Added Pin To Net: NetName=STEP Pin=U2-6
+Added Pin To Net: NetName=DIR Pin=U2-7
+Added Pin To Net: NetName=ENB Pin=U2-8
+Added Pin To Net: NetName=servo_data Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-AREF
+Added Pin To Net: NetName=GND Pin=U2-GND1
+Added Pin To Net: NetName=GND Pin=U2-GND2
+Added Pin To Net: NetName=SCL Pin=U2-SCL
+Added Pin To Net: NetName=SDA Pin=U2-SDA
+Added Member To Class: ClassName=wire_cutter_sch Member=Component U2 Arduino Uno
+Added Room: Name=wire_cutter_sch
